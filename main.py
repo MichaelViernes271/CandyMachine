@@ -6,11 +6,9 @@
 # 4. Accept money from the customer
 # 5. Release the item
 
-from CashRegisterimport CashRegister
+from CashRegister import CashRegister
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    cashreg = CashRegister(200)
-    print(cashreg.currentBalance)
-
+    pass
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
