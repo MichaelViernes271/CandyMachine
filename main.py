@@ -7,8 +7,13 @@
 # 5. Release the item
 
 from CashRegister import CashRegister
+from Dispenser import Dispenser
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    pass
+    cashreg = CashRegister()
+    print(cashreg.currentBalance())
+    print(cashreg.acceptAmount(19))
+    print(cashreg.currentBalance())
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
