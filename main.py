@@ -11,9 +11,9 @@ from Dispenser import Dispenser
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    cashreg = CashRegister()
-    print(cashreg.currentBalance())
-    print(cashreg.acceptAmount(19))
-    print(cashreg.currentBalance())
+    pass
+
+
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
