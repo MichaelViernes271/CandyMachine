@@ -23,7 +23,7 @@ class Dispenser:
         """decrements item size by 1"""
         self.numberOfItems -= 1
 
-if __name__ == "__main__":
+if __name__ == "__main__": # for testing class dispenser
     d1 = Dispenser()
     d2 = Dispenser()  # expects def value
 

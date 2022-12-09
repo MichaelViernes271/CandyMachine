@@ -6,8 +6,8 @@
 # 4. Accept money from the customer
 # 5. Release the item
 
-from CashRegister import CashRegister
-from Dispenser import Dispenser
+# from CashRegister import CashRegister
+# from Dispenser import Dispenser
 from CandyMachine import CandyMachine
 
 # Press the green button in the gutter to run the script.
